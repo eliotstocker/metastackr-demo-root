@@ -1,0 +1,6 @@
+[submodule "services/sub-a"]
+	path = services/sub-a
+	url = https://github.com/eliotstocker/metastackr-demo-sub-a.git
+[submodule "services/sub-b"]
+	path = services/sub-b
+	url = https://github.com/eliotstocker/metastackr-demo-sub-b.git
