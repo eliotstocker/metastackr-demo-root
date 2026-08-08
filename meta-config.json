@@ -1,5 +1,5 @@
 {
   "appName": "metastackr-demo-root",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "services": ["sub-a", "sub-b"]
 }
