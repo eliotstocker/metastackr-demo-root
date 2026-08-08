@@ -1,0 +1,5 @@
+{
+  "appName": "metastackr-demo-root",
+  "version": "2.0.0",
+  "services": ["sub-a", "sub-b"]
+}
