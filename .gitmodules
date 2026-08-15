@@ -1,0 +1,8 @@
+[submodule "services/orders"]
+	path = services/orders
+	url = https://github.com/eliotstocker/metastackr-demo-orders-service.git
+	branch = main
+[submodule "services/payments"]
+	path = services/payments
+	url = https://github.com/eliotstocker/metastackr-demo-payments-service.git
+	branch = main
